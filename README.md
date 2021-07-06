@@ -97,8 +97,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [자바스크립트로 최대공약수,최소공배수 구하기](https://rudezoo.github.io/gcd/)
+- [Jekyll, Github blog를 검색엔진에 노출시키기!](https://rudezoo.github.io/how-to-google-naver/)
+- [뉴스 빅데이터 처리 기술을 활용한 웹 서비스 InTimes](https://rudezoo.github.io/finish_project/)
+- [Rudflix에 오신걸 환영합니다!](https://rudezoo.github.io/welcome-to-Rudflix/)
+- [두번째 게시물입니다.](https://rudezoo.github.io/second-post/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
