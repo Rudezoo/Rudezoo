@@ -98,7 +98,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Unrealdev1](https://rudezoo.github.io/unrealdev1/)
+- [Unreal Devlog#1](https://rudezoo.github.io/unrealdev1/)
 - [자바스크립트로 최대공약수,최소공배수 구하기](https://rudezoo.github.io/gcd/)
 - [Jekyll, Github blog를 검색엔진에 노출시키기!](https://rudezoo.github.io/how-to-google-naver/)
 - [뉴스 빅데이터 처리 기술을 활용한 웹 서비스 InTimes](https://rudezoo.github.io/finish_project/)
