@@ -84,7 +84,7 @@
 </div>  
   
 
-<div align="center">[Rudezoo blog](http://rudezoo.github.io/)</div>  
+<div align="center">http://rudezoo.github.io/</div>  
   
 
 <br/>  
@@ -124,4 +124,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
